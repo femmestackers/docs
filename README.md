@@ -4,3 +4,7 @@
 ![Homepage](./docs/Login-page-desktop-hifi.jpg)
 ![Homepage](./docs/Register-page-desktop-hifi.jpg)
 
+## Lo-fi wireframes:
+![Homepage](./docs/Home.png)
+![Homepage](./docs/LoginPage.png)
+![Homepage](./docs/RegisterPage.png)
