@@ -8,3 +8,8 @@
 ![Homepage](./docs/Home.png)
 ![Homepage](./docs/LoginPage.png)
 ![Homepage](./docs/RegisterPage.png)
+
+## Hi-fi wireframes version2
+![Post](./docs/Post-smoothie-page.png)
+![Single-smoothie](./docs/Single-category-page.png)
+![All categories](./docs/all-category-page.png)
