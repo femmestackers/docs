@@ -83,3 +83,19 @@ We wrote user stories to get an idea of what features to develop in the app and 
 ![version1](./docs/version1.png)
 
 ![revised-version](./docs/revised-version.png)
+
+<br>
+###R5 Wireframes, Mockups, and User flow
+The lo-fi wireframes were done in Balsamiq. The mockups and user flow were created in Figma!
+3 sizes- desktop, mobile and tablet were done
+
+![Signup](./docs/sign-up.png)
+![Login](./docs/login.png)
+![Home](./docs/home.png)
+![View-all-smoothies](./docs/view-all.png)
+![View-single-smoothie](./docs/view-single.png)
+![Add-a-smoothie](./docs/post-smoothie.png)
+![Edit a smoothie](./docs/edit-smoothie.png)
+
+The **user flow** is given below which details the relationship between screens, how the user can interact with the app. The text in blue mentions a few conditions that dictates how pages flow from one to another
+![User-flow](./docs/user-flow.png)
