@@ -89,19 +89,32 @@ We wrote user stories to get an idea of what features to develop in the app and 
 ![revised-version](./docs/revised-version.png)
 
 <br>
+
 ### R5 Wireframes, Mockups, and User flow
 The lo-fi wireframes were done in Balsamiq. The mockups and user flow were created in Figma!
 3 sizes- desktop, mobile and tablet were done
 
 #### LO-FI WIREFRAMES
 
-![SignUp](./docs/lofi-wireframes/Register-Page-D.png)
+![Home](./docs/LFW-Home.png)
+
+![SignUp](./docs/LFW-Signup.png)
+
+![Login](./docs/LFW-login.png)
+
+![ViewAll](./docs/LFW-ViewAll.png)
+
+![Edit](./docs/LFW-Edit.png)
+
+![EachCategory](./docs/LFW-each-Category.png)
+
+![Category](./docs/LFW-Category.png)
 
 #### MOCKUPS
 
 ![Signup](./docs/sign-up.png)
 ![Login](./docs/login.png)
-![Home](./docs/home.png)
+![Home](./docs/Home.png)
 ![View-all-smoothies](./docs/view-all.png)
 ![View-single-smoothie](./docs/view-single.png)
 ![Add-a-smoothie](./docs/post-smoothie.png)
