@@ -52,7 +52,29 @@ Smoothiverse appeals to
  ![Dataflow](./docs/DFD1.png)
  ![Keys](./docs/KEYDFD.png)
   
+### R3 Application Architecture Diagram
 
+![AAD](./docs/ARCHITECTURE-DIAGRAM.png)
+
+SMOOTHIVERSE ARCHITECTURE DIAGRAM
+
+The architecture of Smoothiverse are composed of frontend client, backend server and  a database management system.  The client makes a request to the server backend and the server fetches the data from the database that manages and stores data of Smoothiverse. The server backend is responsible for retrieving the information from the database and sends the results back to the client frontend. 
+
+Here below is a brief description of the functions of each application;
+
+REACT -  It is a Javascript library which can help to build user interfaces.
+ 
+AXIOS -  Is a Javascript library that helps us perform asynchronous HTTP requests like GET or POST. It can be used from the front-end to gather data from the backend
+ 
+NODE - It is an environment outside of the browser where we can run server side apps in Javascript . Node JS and NPM (Node Package Manager) are installed for the Express environment to run.
+ 
+EXPRESS - It is a Node.js framework that simplifies the task of writing server-side code in web applications and encourages code reusability. Routing in express is the response of an application to an endpoint requested by the client, which is a path and an HTTP request. 
+ 
+MongoDB - Is the database that records and stores the data. 
+ 
+The user from the client side will need to sign up to access more functionalities such as Create/Update/Delete/Search a smoothie recipe. 
+
+<br>
 ### R4 User Stories
 These are very brief, informal descriptions of the requirements of the website from the user’s point of view. They are usually written in the “As a 'type of' user, I want 'a feature' so that 'reason' format."
 These User stories were created on 'CardboardIt' by using cards of different colours for the types of users.
