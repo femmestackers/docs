@@ -85,9 +85,15 @@ We wrote user stories to get an idea of what features to develop in the app and 
 ![revised-version](./docs/revised-version.png)
 
 <br>
-###R5 Wireframes, Mockups, and User flow
+### R5 Wireframes, Mockups, and User flow
 The lo-fi wireframes were done in Balsamiq. The mockups and user flow were created in Figma!
 3 sizes- desktop, mobile and tablet were done
+
+#### LO-FI WIREFRAMES
+
+![SignUp](./docs/lofi-wireframes/Register-Page-D.png)
+
+#### MOCKUPS
 
 ![Signup](./docs/sign-up.png)
 ![Login](./docs/login.png)
