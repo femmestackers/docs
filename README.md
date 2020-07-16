@@ -99,3 +99,16 @@ The lo-fi wireframes were done in Balsamiq. The mockups and user flow were creat
 
 The **user flow** is given below which details the relationship between screens, how the user can interact with the app. The text in blue mentions a few conditions that dictates how pages flow from one to another
 ![User-flow](./docs/user-flow.png)
+
+### R6 Screenshots of Trello board
+
+![Trello1](./docs/todo+extra.png)
+<br>
+![Trello2](./docs/todoby16.png)
+<br>
+![Trello3](./docs/note+testing.png)
+<br>
+![Trello4](./docs/partA.png)
+<br>
+![Trello5](./docs/fullpage-trello.png)
+
