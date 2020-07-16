@@ -46,5 +46,10 @@ Smoothiverse appeals to
  - CardboardIt for creating user stories in line with Agile
  - Trello as a Project Management Platform
  - Postman for testing HTTP requests
+
+ ### R2 Data flow diagram
+
+ ![Dataflow](./docs/DFD1.png)
+ ![Keys](./docs/KEYDFD.png)
   
 
