@@ -75,6 +75,10 @@ MongoDB - Is the database that records and stores the data.
 The user from the client side will need to sign up to access more functionalities such as Create/Update/Delete/Search a smoothie recipe. 
 
 <br>
+
+### Git Workflow
+We created a GitHub Organisation for our team inside which we made 3 repos - Client, Server and Docs. The workflow that we discussed to follow was the 'Feature branch workflow'. Each team member works on a feature in their own feature branch - by staging, committing and pushing changes to the feature branch(not the master) in the process. When the feature is ready, before merging to master, a pull request is sent to other team members to review the work done on the feature branch, or incase of any errors/need of discussion. After review, either suggested changes are made(and pull request process is repeated) or the feature branch is merged to the master. Every team member took care to pull the latest version by doing a ‘git pull origin master’ before starting work on a new feature branch.
+
 ### R4 User Stories
 These are very brief, informal descriptions of the requirements of the website from the user’s point of view. They are usually written in the “As a 'type of' user, I want 'a feature' so that 'reason' format."
 These User stories were created on 'CardboardIt' by using cards of different colours for the types of users.
@@ -100,8 +104,13 @@ The lo-fi wireframes were done in Balsamiq. The mockups and user flow were creat
 The **user flow** is given below which details the relationship between screens, how the user can interact with the app. The text in blue mentions a few conditions that dictates how pages flow from one to another
 ![User-flow](./docs/user-flow.png)
 
-### R6 Screenshots of Trello board
+### R6 Screenshots of Trello board demonstrating use throughout the initial stages of the project.
 
+The link for our Trello board:
+https://trello.com/b/CJdS4MDn/smoothiverse
+
+We decided to use Trello for Project management to keep in line with the Agile methodology where we put up lists and made cards for tasks. We decided to assign members to specific tasks and wrote down deadline dates. We had cards to write down what we worked on in the span of our 3 class days. We also made ’to-do’ cards for the next 3 day period. The tasks were marked appropriately on the basis of whether they were 'to-do', 'doing', or 'done'.
+Since we were following Agile, we also had daily standups before 10am where each one of us would take turns in giving a brief about the work done ‘yesterday’, what’s planned for ’today’ and ’tomorrow’, along with the obstacles faced in the process. This would keep the team updated on how the project is shaping up, and would give each member a sense of responsibility towards their task(and towards their contribution to the project as a whole).
 ![Trello1](./docs/todo+extra.png)
 <br>
 ![Trello2](./docs/todoby16.png)
