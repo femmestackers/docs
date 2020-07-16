@@ -53,3 +53,11 @@ Smoothiverse appeals to
  ![Keys](./docs/KEYDFD.png)
   
 
+### R4 User Stories
+These are very brief, informal descriptions of the requirements of the website from the user’s point of view. They are usually written in the “As a 'type of' user, I want 'a feature' so that 'reason' format."
+These User stories were created on 'CardboardIt' by using cards of different colours for the types of users.
+We wrote user stories to get an idea of what features to develop in the app and to show refinements in the user stories that happen in the process of building the app
+
+![version1](./docs/version1.png)
+
+![revised-version](./docs/revised-version.png)
